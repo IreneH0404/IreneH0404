@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## I am a Cat
+ I am a Cat
 <!--
 **IreneH0404/IreneH0404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
