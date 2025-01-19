@@ -1,4 +1,4 @@
 ## Hi there 👋
 
- I am a Cat
+ I am the world's first cat programmer.
 
